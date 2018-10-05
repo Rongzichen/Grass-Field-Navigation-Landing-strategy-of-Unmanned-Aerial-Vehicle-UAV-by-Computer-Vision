@@ -1,0 +1,19 @@
+﻿  CameraCalibration.cpp
+  UAV_Navigation.cpp
+  landing_strategy.cpp
+  pic_Pre_Process.cpp
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(116): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(130): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(135): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(144): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(47): warning C4101: “height”: 未引用的局部变量
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(44): warning C4101: “largest_distance”: 未引用的局部变量
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(47): warning C4101: “Zg”: 未引用的局部变量
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(47): warning C4101: “Xg”: 未引用的局部变量
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(47): warning C4101: “Yg”: 未引用的局部变量
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(43): warning C4101: “distance_p2p”: 未引用的局部变量
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(355): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\pic_pre_process.cpp(356): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+c:\users\rongzichen song\desktop\temperary files\opencv_lib\uav_navigation_project\record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\opencv_demo3\landing_strategy.cpp(98): warning C4715: “find_intersection”: 不是所有的控件路径都返回值
+  OpenCV_Demo3.vcxproj -> C:\Users\Rongzichen Song\Desktop\Temperary files\OpenCV_lib\UAV_Navigation_project\Record\障碍物检测\6-2 草地障碍物检测 -演示版本 - 副本\x64\Debug\OpenCV_Demo3.exe
