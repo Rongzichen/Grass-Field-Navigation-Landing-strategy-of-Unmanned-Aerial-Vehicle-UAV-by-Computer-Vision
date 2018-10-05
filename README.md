@@ -1,0 +1,2 @@
+# Grass-Field-Navigation-Landing-strategy-of-Unmanned-Aerial-Vehicle-UAV-by-Computer-Vision
+This is the capstone project I've done between 03/2018-06/2018, which was selected to be one of the best capstone projects by our department(Mechanical and Electrical Engineering Department). Basically, this part of the codes demonstrate the image processing and landing strategy given the condition that there are some obstacles on the grass.
